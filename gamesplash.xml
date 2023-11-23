@@ -30,6 +30,7 @@
 			<glowSize>1</glowSize>
 			<glowOffset>1</glowOffset>
 			<text>LOADING...</text>
+			<text lang="it">CARICAMENTO...</text>
 			<text lang="pt">CARREGANDO...</text>
 			<text lang="fr">CHARGEMENT...</text>
 			<text lang="es">CARGANDO...</text>
